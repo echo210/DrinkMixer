@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Drink Mixer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="stay_in">Chill At Home</string>
+    <string name="go_out">Hit the Town</string>
+    <string name="submit_btn">Let\'s Get This Party Started</string>
+    <string name="bar_page_title">Bars</string>
+    <string name="bogarts_bar_name">Bogart\'s Lounge &amp; Tech Pub</string>
+    <string name="bogarts_address1">1209 Wildwood Avenue</string>
+    <string name="bogarts_address2">Sunnyvale, CA 94089</string>
+    <string name="bogarts_ph_no">(408) 245&#8211;2800</string>
+    <string name="faultline_bar_name">Faultline Brewing Company</string>
+    <string name="faultline_address1">1235 Oakmead Parkway</string>
+    <string name="faultline_address2">Sunnyvale, CA 94085</string>
+    <string name="faultline_ph_no">(408) 736&#8211;2739</string>
+    <string name="bennigans_bar_name">Bennigan\'s</string>
+    <string name="bennigans_address1">4150 Great America Parkway</string>
+    <string name="bennigans_address2">Santa Clara, CA 95054</string>
+    <string name="bennigans_ph_no">(408) 748&#8211;0378</string>
+    <string name="quarternote_bar_name">Quarter Note Bar &amp; Grill</string>
+    <string name="quarternote_address1">1214 Apollo Way</string>
+    <string name="quarternote_address2">Sunnyvale, CA 94086</string>
+    <string name="quarternote_ph_no">(408) 732&#8211;2110</string>
+    <string name="drinkmixer_image">drink mixer image</string>
+    <string name="title_activity_alcohol_list">Alcohol Selection</string>
+    <string name="next">Continue</string>
+    <string name="title_activity_mixer_list">Mixer Selection</string>
+    <string name="title_activity_chill_results">Results</string>
+    <string name="title_activity_show_recipe">Enjoy</string>
+    <string name="call_cab_1">CALL</string>
+    <string name="call_cab_2">408&#8211;777&#8211;7777</string>
+    <string name="get_cab">Get Cab</string>
+
+</resources>

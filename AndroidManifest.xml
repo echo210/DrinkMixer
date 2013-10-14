@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hacienda.drinkmixer"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/bar_neon_sign"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Black" >
+        <activity
+            android:name="com.hacienda.drinkmixer.Main"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.hacienda.drinkmixer.Bars"
+            android:label="@string/bar_page_title" >
+        </activity>
+        <activity
+            android:name="com.hacienda.drinkmixer.Bogarts"
+            android:label="@string/bogarts_bar_name" >
+        </activity>
+        <activity
+            android:name="com.hacienda.drinkmixer.Faultline"
+            android:label="@string/faultline_bar_name" >
+        </activity>
+        <activity
+            android:name="com.hacienda.drinkmixer.Bennigans"
+            android:label="@string/bennigans_bar_name" >
+        </activity>
+        <activity
+            android:name="com.hacienda.drinkmixer.QuarterNote"
+            android:label="@string/quarternote_bar_name" >
+        </activity>
+        <activity
+            android:name="com.hacienda.drinkmixer.AlcoholList"
+            android:label="@string/title_activity_alcohol_list" >
+        </activity>
+        <activity
+            android:name="com.hacienda.drinkmixer.MixerList"
+            android:label="@string/title_activity_mixer_list" >
+        </activity>
+        <activity
+            android:name="com.hacienda.drinkmixer.ChillResults"
+            android:label="@string/title_activity_chill_results" >
+        </activity>
+        <activity
+            android:name="com.hacienda.drinkmixer.ShowRecipe"
+            android:label="@string/title_activity_show_recipe" >
+        </activity>
+        <activity android:name="GetCab"></activity>
+    </application>
+
+</manifest>
